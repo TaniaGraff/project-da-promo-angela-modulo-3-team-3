@@ -1,1 +1,3 @@
-# project-da-promo-angela-modulo-3-team-3
+# Proyecto Retención de Talento
+*equipo desarrollo:* Reyes Altozano, Marta García, Tania Graff, Franca Tortarolo
+*cliente:* ABC corporation
