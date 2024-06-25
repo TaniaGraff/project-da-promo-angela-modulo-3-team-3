@@ -1,5 +1,7 @@
 CREATE Schema ABC_corporation;
 
+USE ABC_corporation;
+
 CREATE TABLE Employees (
     EmployeeNumber INT PRIMARY KEY AUTO_INCREMENT,
     Age INT,
