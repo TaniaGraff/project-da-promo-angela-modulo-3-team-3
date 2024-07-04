@@ -1,0 +1,1081 @@
+Age,Attrition,BusinessTravel,DistanceFromHome,Education,EducationField,Gender,MaritalStatus,DateBirth
+51,No,Unknown,6,3,Unknown,M,Unknown,1972
+52,No,Unknown,1,4,Life Sciences,M,Unknown,1971
+42,No,travel_rarely,4,2,Technical Degree,M,Married,1981
+47,No,travel_rarely,2,4,Medical,F,Married,1976
+48,No,Unknown,22,3,Medical,F,Unknown,1975
+59,No,Unknown,25,3,Life Sciences,F,Unknown,1964
+42,No,travel_rarely,1,1,Unknown,M,Married,1981
+41,No,travel_frequently,9,3,Unknown,M,Unknown,1982
+41,No,non-travel,7,1,Unknown,F,Unknown,1982
+41,Yes,travel_rarely,12,3,Unknown,F,Married,1982
+40,No,travel_rarely,2,4,Unknown,F,Unknown,1983
+58,Yes,travel_rarely,2,4,Unknown,M,Single,1965
+45,No,non-travel,1,1,Unknown,M,Unknown,1978
+33,No,Unknown,1,2,Life Sciences,F,Single,1990
+47,No,Unknown,2,2,Other,F,Married,1976
+36,No,Unknown,2,4,Life Sciences,F,Single,1987
+34,No,non-travel,10,3,Life Sciences,M,Unknown,1989
+41,No,Unknown,37,1,Unknown,F,Divorced,1982
+47,No,Unknown,25,3,Medical,M,Unknown,1976
+53,No,travel_rarely,5,3,Unknown,F,Unknown,1970
+35,No,Unknown,1,4,Marketing,M,Single,1988
+46,No,travel_rarely,1,2,Unknown,F,Divorced,1977
+43,No,Unknown,16,3,Unknown,F,Married,1980
+36,No,Unknown,6,3,Life Sciences,M,Married,1987
+40,No,travel_frequently,5,4,Unknown,M,Married,1983
+32,No,travel_rarely,4,3,Unknown,F,Married,1991
+53,No,Unknown,2,2,Medical,M,Divorced,1970
+36,Yes,travel_rarely,16,4,Unknown,F,Single,1987
+46,No,Unknown,8,4,Life Sciences,F,Divorced,1977
+38,No,travel_rarely,1,4,Unknown,M,Married,1985
+51,No,Unknown,1,4,Unknown,F,Single,1972
+43,No,Unknown,26,2,Unknown,M,Married,1980
+37,No,Unknown,1,3,Life Sciences,F,Single,1986
+32,No,travel_rarely,8,2,Technical Degree,F,Married,1991
+46,No,Unknown,3,3,Life Sciences,F,Unknown,1977
+43,No,Unknown,6,3,Medical,F,Married,1980
+56,No,non-travel,1,4,Life Sciences,M,Divorced,1967
+38,No,Unknown,6,3,Medical,F,Unknown,1985
+49,No,Unknown,26,4,Medical,F,Unknown,1974
+40,No,Unknown,4,4,Unknown,M,Married,1983
+36,No,Unknown,5,2,Unknown,M,Single,1987
+37,No,Unknown,25,5,Unknown,F,Married,1986
+35,No,Unknown,6,4,Unknown,M,Unknown,1988
+33,No,travel_frequently,6,3,Life Sciences,M,Divorced,1990
+50,No,travel_rarely,24,3,Unknown,M,Married,1973
+48,No,travel_rarely,4,4,Unknown,M,Single,1975
+44,No,travel_rarely,28,3,Unknown,F,Married,1979
+44,No,travel_rarely,29,4,Unknown,M,Single,1979
+40,No,Unknown,25,1,Unknown,F,Unknown,1983
+49,No,Unknown,6,1,Life Sciences,F,Unknown,1974
+38,No,travel_frequently,1,3,Life Sciences,M,Unknown,1985
+33,No,Unknown,21,3,Unknown,M,Unknown,1990
+38,No,Unknown,8,3,Unknown,F,Divorced,1985
+37,No,travel_rarely,10,3,Life Sciences,F,Unknown,1986
+30,No,Unknown,2,3,Unknown,M,Married,1993
+58,No,travel_rarely,18,4,Unknown,M,Single,1965
+34,No,travel_rarely,5,3,Unknown,F,Single,1989
+38,No,Unknown,3,3,Life Sciences,M,Divorced,1985
+55,No,travel_rarely,1,3,Medical,M,Single,1968
+31,No,Unknown,30,2,Unknown,F,Married,1992
+50,No,travel_rarely,27,4,Life Sciences,M,Married,1973
+35,No,Unknown,25,3,Technical Degree,M,Married,1988
+35,No,Unknown,25,4,Unknown,F,Divorced,1988
+45,No,Unknown,9,4,Life Sciences,F,Married,1978
+33,No,Unknown,9,3,Medical,M,Married,1990
+45,Yes,Unknown,13,3,Marketing,F,Unknown,1978
+34,No,travel_rarely,7,2,Technical Degree,M,Unknown,1989
+43,No,travel_rarely,15,2,Unknown,M,Unknown,1980
+34,No,Unknown,5,2,Medical,M,Unknown,1989
+38,No,Unknown,2,3,Unknown,M,Divorced,1985
+34,No,Unknown,22,4,Other,M,Married,1989
+32,No,travel_rarely,31,4,Unknown,F,Unknown,1991
+29,No,travel_rarely,21,4,Life Sciences,F,Divorced,1994
+30,No,Unknown,9,3,Unknown,M,Married,1993
+45,No,Unknown,9,3,Life Sciences,M,Unknown,1978
+30,No,travel_rarely,5,3,Unknown,F,Unknown,1993
+30,No,Unknown,9,3,Unknown,M,Unknown,1993
+34,No,travel_frequently,29,1,Unknown,M,Married,1989
+34,No,Unknown,39,4,Life Sciences,M,Unknown,1989
+35,No,travel_rarely,16,3,Unknown,M,Married,1988
+39,No,Unknown,10,1,Unknown,M,Married,1984
+39,No,Unknown,7,2,Unknown,M,Married,1984
+45,No,travel_rarely,8,4,Unknown,M,Unknown,1978
+30,No,travel_rarely,5,3,Marketing,F,Unknown,1993
+36,No,Unknown,3,4,Medical,M,Married,1987
+36,No,travel_rarely,2,2,Unknown,M,Married,1987
+55,No,travel_rarely,18,5,Unknown,F,Single,1968
+35,No,Unknown,1,3,Unknown,M,Unknown,1988
+52,No,travel_rarely,6,2,Unknown,M,Divorced,1971
+49,No,Unknown,18,4,Life Sciences,M,Unknown,1974
+34,No,travel_rarely,1,5,Unknown,M,Married,1989
+33,Yes,travel_rarely,1,4,Other,M,Single,1990
+33,No,Unknown,7,3,Medical,M,Married,1990
+53,No,travel_rarely,23,4,Unknown,F,Unknown,1970
+49,No,travel_rarely,8,2,Other,F,Married,1974
+35,No,Unknown,21,4,Unknown,M,Unknown,1988
+38,No,travel_rarely,17,1,Life Sciences,F,Married,1985
+46,No,Unknown,3,1,Marketing,M,Married,1977
+42,Yes,travel_frequently,15,3,Life Sciences,M,Single,1981
+34,No,travel_frequently,1,3,Unknown,M,Single,1989
+31,No,travel_rarely,24,3,Medical,F,Single,1992
+44,No,Unknown,5,3,Unknown,M,Married,1979
+55,No,non-travel,8,1,Unknown,M,Divorced,1968
+44,No,travel_rarely,4,2,Life Sciences,M,Divorced,1979
+39,No,Unknown,13,4,Unknown,F,Divorced,1984
+55,No,travel_rarely,2,2,Medical,F,Unknown,1968
+51,No,Unknown,5,3,Life Sciences,M,Unknown,1972
+58,Yes,Unknown,14,4,Medical,F,Married,1965
+29,No,travel_rarely,17,3,Unknown,M,Single,1994
+34,No,Unknown,3,3,Other,M,Single,1989
+42,No,travel_frequently,9,2,Unknown,F,Unknown,1981
+34,Yes,travel_rarely,24,4,Unknown,F,Single,1989
+54,No,travel_frequently,11,4,Medical,F,Unknown,1969
+34,No,travel_rarely,1,3,Unknown,M,Unknown,1989
+29,No,Unknown,3,1,Medical,M,Single,1994
+35,No,travel_rarely,28,3,Life Sciences,M,Unknown,1988
+35,Yes,Unknown,12,4,Other,M,Unknown,1988
+34,No,travel_rarely,19,3,Life Sciences,F,Married,1989
+43,No,Unknown,2,3,Unknown,M,Unknown,1980
+43,No,travel_rarely,11,3,Life Sciences,M,Married,1980
+42,No,Unknown,23,2,Unknown,M,Single,1981
+40,No,Unknown,11,3,Technical Degree,F,Married,1983
+56,Yes,Unknown,7,2,Technical Degree,M,Married,1967
+39,No,travel_rarely,33,1,Marketing,F,Unknown,1984
+30,No,travel_frequently,1,2,Unknown,F,Unknown,1993
+32,No,travel_rarely,1,3,Medical,M,Married,1991
+30,No,travel_rarely,1,1,Life Sciences,M,Married,1993
+46,Yes,Unknown,9,2,Medical,M,Unknown,1977
+30,No,travel_rarely,4,2,Unknown,F,Unknown,1993
+32,No,Unknown,6,4,Unknown,M,Single,1991
+32,No,Unknown,8,3,Marketing,F,Single,1991
+41,No,travel_rarely,34,3,Life Sciences,M,Divorced,1982
+40,No,travel_rarely,4,1,Medical,F,Unknown,1983
+45,No,Unknown,2,2,Unknown,M,Married,1978
+32,Yes,travel_rarely,4,4,Unknown,M,Married,1991
+30,No,non-travel,1,1,Life Sciences,M,Unknown,1993
+37,No,Unknown,11,3,Unknown,M,Unknown,1986
+40,No,Unknown,24,2,Technical Degree,M,Unknown,1983
+32,No,travel_rarely,7,3,Life Sciences,M,Married,1991
+38,No,Unknown,25,2,Life Sciences,F,Unknown,1985
+30,No,travel_rarely,28,2,Unknown,F,Married,1993
+39,No,Unknown,1,1,Unknown,M,Unknown,1984
+60,No,Unknown,7,3,Life Sciences,F,Unknown,1963
+30,No,Unknown,22,4,Other,F,Unknown,1993
+31,No,travel_rarely,9,1,Unknown,M,Divorced,1992
+33,Yes,Unknown,3,3,Life Sciences,M,Single,1990
+50,No,Unknown,28,1,Medical,M,Married,1973
+32,No,Unknown,24,4,Life Sciences,M,Unknown,1991
+42,No,Unknown,29,3,Unknown,M,Unknown,1981
+49,Yes,Unknown,11,3,Marketing,F,Married,1974
+27,No,Unknown,5,1,Unknown,M,Divorced,1996
+52,No,Unknown,26,4,Unknown,F,Married,1971
+32,No,Unknown,5,2,Life Sciences,M,Unknown,1991
+36,No,Unknown,14,1,Life Sciences,M,Unknown,1987
+52,No,Unknown,1,2,Life Sciences,M,Married,1971
+33,No,non-travel,17,3,Unknown,M,Single,1990
+45,No,non-travel,23,2,Life Sciences,M,Unknown,1978
+36,No,travel_rarely,12,5,Unknown,F,Unknown,1987
+49,No,Unknown,8,4,Unknown,M,Unknown,1974
+29,No,Unknown,6,1,Unknown,F,Married,1994
+37,No,Unknown,1,3,Life Sciences,F,Married,1986
+28,No,non-travel,1,3,Unknown,F,Married,1995
+31,No,non-travel,2,4,Unknown,F,Unknown,1992
+42,No,non-travel,2,1,Life Sciences,M,Unknown,1981
+40,No,travel_rarely,2,3,Life Sciences,M,Single,1983
+34,No,Unknown,15,2,Medical,F,Single,1989
+58,No,travel_rarely,1,3,Unknown,F,Unknown,1965
+31,Yes,travel_frequently,1,5,Unknown,F,Unknown,1992
+53,No,Unknown,2,3,Medical,M,Single,1970
+34,No,Unknown,15,3,Unknown,M,Unknown,1989
+37,No,Unknown,13,3,Unknown,M,Married,1986
+42,No,travel_frequently,2,3,Unknown,M,Unknown,1981
+45,No,Unknown,1,4,Unknown,M,Divorced,1978
+30,Yes,travel_rarely,1,3,Unknown,M,Married,1993
+38,No,travel_rarely,14,3,Life Sciences,M,Married,1985
+50,No,Unknown,20,5,Medical,M,Unknown,1973
+34,No,travel_rarely,3,3,Unknown,F,Unknown,1989
+54,No,travel_rarely,22,5,Unknown,F,Unknown,1969
+39,No,Unknown,1,3,Life Sciences,M,Married,1984
+36,No,Unknown,10,3,Life Sciences,M,Unknown,1987
+34,No,travel_rarely,8,2,Unknown,M,Unknown,1989
+46,No,travel_rarely,2,2,Life Sciences,M,Divorced,1977
+27,No,travel_rarely,23,1,Medical,F,Married,1996
+31,No,Unknown,36,3,Life Sciences,M,Divorced,1992
+45,No,travel_rarely,25,2,Life Sciences,F,Unknown,1978
+34,No,travel_rarely,1,3,Marketing,M,Unknown,1989
+35,No,Unknown,7,4,Unknown,F,Unknown,1988
+39,No,travel_rarely,15,4,Marketing,M,Single,1984
+40,No,travel_rarely,2,2,Marketing,F,Married,1983
+47,No,Unknown,1,1,Unknown,F,Married,1976
+49,No,travel_frequently,8,1,Unknown,M,Married,1974
+33,No,travel_frequently,19,4,Life Sciences,F,Married,1990
+42,No,Unknown,8,4,Unknown,M,Unknown,1981
+31,No,Unknown,7,4,Life Sciences,M,Divorced,1992
+31,No,travel_rarely,8,4,Unknown,F,Single,1992
+51,No,Unknown,21,4,Marketing,M,Unknown,1972
+34,Yes,travel_frequently,7,3,Unknown,M,Unknown,1989
+36,No,Unknown,11,2,Technical Degree,F,Unknown,1987
+30,No,travel_frequently,23,3,Unknown,M,Divorced,1993
+33,No,non-travel,12,2,Unknown,M,Married,1990
+31,Yes,Unknown,6,4,Life Sciences,M,Married,1992
+41,No,travel_rarely,23,1,Unknown,M,Divorced,1982
+26,No,travel_rarely,25,1,Unknown,F,Unknown,1997
+32,No,Unknown,9,2,Unknown,M,Divorced,1991
+40,No,travel_frequently,26,3,Unknown,F,Divorced,1983
+53,No,travel_rarely,6,2,Marketing,M,Unknown,1970
+33,No,travel_rarely,14,3,Unknown,F,Unknown,1990
+51,No,travel_rarely,3,3,Unknown,F,Single,1972
+27,No,travel_rarely,9,3,Medical,F,Single,1996
+37,No,Unknown,21,3,Life Sciences,M,Unknown,1986
+49,No,non-travel,18,4,Unknown,M,Divorced,1974
+27,No,Unknown,20,3,Life Sciences,F,Single,1996
+45,No,Unknown,6,3,Medical,F,Single,1978
+35,No,Unknown,1,3,Unknown,F,Single,1988
+52,No,Unknown,2,4,Life Sciences,M,Unknown,1971
+38,No,non-travel,2,2,Life Sciences,M,Unknown,1985
+46,No,Unknown,27,3,Unknown,F,Married,1977
+47,Yes,non-travel,10,4,Life Sciences,M,Married,1976
+35,No,Unknown,22,3,Life Sciences,F,Divorced,1988
+29,No,travel_frequently,2,2,Unknown,M,Single,1994
+55,No,travel_rarely,20,2,Technical Degree,M,Married,1968
+26,Yes,travel_rarely,45,4,Unknown,M,Single,1997
+31,No,travel_rarely,7,3,Technical Degree,M,Unknown,1992
+43,No,travel_frequently,10,4,Life Sciences,F,Unknown,1980
+31,No,travel_rarely,13,3,Marketing,M,Unknown,1992
+33,No,Unknown,10,3,Unknown,M,Unknown,1990
+43,No,travel_frequently,10,4,Life Sciences,F,Divorced,1980
+29,Yes,travel_rarely,8,4,Unknown,M,Unknown,1994
+27,No,Unknown,8,4,Unknown,F,Unknown,1996
+26,No,travel_rarely,1,3,Unknown,M,Unknown,1997
+40,No,travel_rarely,10,4,Life Sciences,F,Married,1983
+41,Yes,Unknown,4,3,Unknown,M,Unknown,1982
+51,No,travel_rarely,14,2,Unknown,F,Unknown,1972
+41,No,travel_rarely,1,3,Marketing,M,Married,1982
+35,No,travel_rarely,16,3,Life Sciences,M,Unknown,1988
+48,No,travel_rarely,2,5,Unknown,F,Married,1975
+26,Yes,travel_frequently,17,4,Life Sciences,F,Unknown,1997
+41,No,Unknown,2,4,Other,F,Single,1982
+34,No,Unknown,21,4,Unknown,M,Single,1989
+31,No,travel_rarely,6,4,Medical,M,Divorced,1992
+43,No,travel_frequently,9,5,Unknown,M,Divorced,1980
+53,No,Unknown,1,1,Unknown,F,Single,1970
+29,No,Unknown,1,4,Life Sciences,M,Divorced,1994
+34,No,Unknown,9,3,Medical,F,Unknown,1989
+39,No,Unknown,2,4,Technical Degree,F,Single,1984
+32,No,Unknown,10,3,Marketing,M,Unknown,1991
+38,No,travel_rarely,1,4,Life Sciences,F,Unknown,1985
+27,No,travel_rarely,1,2,Life Sciences,F,Married,1996
+47,No,Unknown,35,4,Marketing,M,Single,1976
+27,No,travel_frequently,10,2,Unknown,M,Unknown,1996
+41,No,Unknown,1,3,Unknown,M,Unknown,1982
+36,No,Unknown,8,3,Unknown,F,Married,1987
+30,No,Unknown,27,5,Marketing,M,Divorced,1993
+56,No,travel_rarely,9,3,Unknown,M,Married,1967
+45,No,travel_rarely,2,2,Unknown,M,Single,1978
+36,No,non-travel,8,4,Unknown,M,Single,1987
+29,No,Unknown,27,3,Medical,F,Married,1994
+38,No,Unknown,2,4,Life Sciences,F,Single,1985
+42,No,travel_frequently,8,3,Unknown,M,Unknown,1981
+36,No,travel_rarely,1,3,Other,F,Unknown,1987
+55,Yes,Unknown,2,1,Medical,M,Single,1968
+44,No,Unknown,9,2,Unknown,M,Unknown,1979
+41,Yes,Unknown,2,4,Life Sciences,F,Divorced,1982
+31,No,travel_rarely,7,4,Unknown,M,Unknown,1992
+26,No,travel_frequently,28,3,Medical,M,Unknown,1997
+32,No,Unknown,3,4,Medical,F,Married,1991
+36,Yes,travel_rarely,3,1,Life Sciences,M,Married,1987
+45,No,non-travel,47,2,Unknown,M,Unknown,1978
+36,No,non-travel,8,4,Technical Degree,M,Divorced,1987
+54,No,travel_rarely,17,3,Technical Degree,F,Unknown,1969
+30,No,travel_rarely,8,2,Unknown,F,Unknown,1993
+26,No,Unknown,2,2,Medical,M,Married,1997
+55,No,travel_frequently,18,4,Medical,M,Married,1968
+32,No,non-travel,29,4,Unknown,F,Single,1991
+53,No,travel_frequently,2,3,Marketing,F,Unknown,1970
+55,No,Unknown,2,1,Unknown,M,Single,1968
+28,Yes,non-travel,24,2,Unknown,M,Single,1995
+28,No,travel_rarely,10,3,Other,F,Single,1995
+35,Yes,Unknown,4,3,Technical Degree,M,Unknown,1988
+33,Yes,travel_frequently,36,4,Medical,F,Single,1990
+25,Yes,Unknown,4,1,Technical Degree,M,Married,1998
+38,No,Unknown,10,4,Unknown,M,Unknown,1985
+43,No,travel_frequently,27,3,Life Sciences,F,Married,1980
+40,No,travel_rarely,14,3,Unknown,M,Unknown,1983
+26,No,travel_rarely,3,4,Unknown,M,Unknown,1997
+35,No,travel_rarely,2,3,Unknown,M,Divorced,1988
+53,No,Unknown,7,2,Medical,F,Divorced,1970
+35,No,Unknown,17,4,Life Sciences,M,Unknown,1988
+33,No,Unknown,25,3,Medical,F,Unknown,1990
+30,No,travel_rarely,7,4,Life Sciences,M,Divorced,1993
+32,No,Unknown,2,2,Life Sciences,F,Single,1991
+36,No,Unknown,1,3,Technical Degree,F,Divorced,1987
+43,No,Unknown,3,3,Life Sciences,M,Unknown,1980
+29,No,travel_rarely,1,3,Unknown,F,Divorced,1994
+59,No,Unknown,24,4,Unknown,M,Single,1964
+43,No,travel_rarely,4,4,Marketing,F,Single,1980
+44,Yes,travel_rarely,15,3,Medical,F,Married,1979
+39,No,travel_rarely,33,2,Unknown,M,Single,1984
+34,No,Unknown,9,3,Unknown,M,Unknown,1989
+38,No,Unknown,2,2,Life Sciences,F,Unknown,1985
+36,No,travel_frequently,12,3,Marketing,F,Married,1987
+35,No,Unknown,1,3,Unknown,F,Unknown,1988
+34,No,Unknown,29,3,Unknown,M,Unknown,1989
+43,No,Unknown,6,3,Medical,F,Single,1980
+42,No,travel_rarely,10,3,Human Resources,F,Married,1981
+26,No,travel_rarely,7,3,Unknown,M,Single,1997
+29,Yes,Unknown,14,1,Other,F,Single,1994
+54,No,Unknown,1,3,Unknown,F,Unknown,1969
+55,No,Unknown,1,4,Unknown,M,Divorced,1968
+46,Yes,Unknown,9,3,Marketing,M,Divorced,1977
+45,No,travel_rarely,20,3,Medical,M,Unknown,1978
+49,No,travel_rarely,7,4,Life Sciences,M,Divorced,1974
+29,No,travel_rarely,19,3,Unknown,M,Unknown,1994
+29,Yes,Unknown,1,4,Technical Degree,M,Single,1994
+29,No,Unknown,8,1,Other,F,Unknown,1994
+53,Yes,Unknown,2,5,Unknown,F,Married,1970
+44,No,Unknown,7,3,Medical,F,Unknown,1979
+45,No,Unknown,5,5,Unknown,F,Unknown,1978
+45,No,non-travel,26,3,Marketing,M,Unknown,1978
+34,No,travel_frequently,10,4,Unknown,M,Unknown,1989
+27,No,Unknown,36,3,Unknown,M,Divorced,1996
+45,No,travel_rarely,2,2,Unknown,F,Divorced,1978
+44,No,Unknown,1,5,Unknown,M,Married,1979
+25,No,Unknown,2,1,Life Sciences,M,Divorced,1998
+48,Yes,travel_frequently,7,2,Unknown,F,Unknown,1975
+26,No,Unknown,7,3,Medical,M,Unknown,1997
+44,No,travel_rarely,2,3,Life Sciences,F,Unknown,1979
+46,No,Unknown,13,4,Unknown,M,Single,1977
+35,No,Unknown,27,4,Life Sciences,M,Married,1988
+30,No,travel_frequently,2,4,Unknown,F,Unknown,1993
+30,No,Unknown,15,2,Marketing,M,Unknown,1993
+33,No,non-travel,2,3,Marketing,F,Unknown,1990
+32,No,Unknown,5,4,Unknown,M,Single,1991
+43,No,travel_rarely,2,3,Life Sciences,M,Unknown,1980
+35,Yes,Unknown,27,3,Unknown,M,Unknown,1988
+35,No,non-travel,2,2,Medical,M,Divorced,1988
+30,No,Unknown,10,3,Medical,F,Single,1993
+46,Yes,travel_rarely,19,2,Medical,F,Married,1977
+43,No,travel_frequently,2,4,Life Sciences,M,Married,1980
+46,Yes,Unknown,10,3,Life Sciences,F,Unknown,1977
+27,No,travel_rarely,2,2,Unknown,F,Single,1996
+42,No,Unknown,6,3,Medical,M,Married,1981
+28,No,travel_frequently,1,2,Life Sciences,M,Married,1995
+47,No,Unknown,14,4,Unknown,M,Married,1976
+34,No,travel_rarely,13,4,Medical,M,Divorced,1989
+26,No,Unknown,1,3,Medical,M,Single,1997
+27,No,travel_rarely,9,3,Unknown,M,Unknown,1996
+31,Yes,travel_frequently,26,4,Marketing,M,Unknown,1992
+31,No,Unknown,10,3,Unknown,F,Married,1992
+35,No,Unknown,9,4,Medical,M,Unknown,1988
+33,No,travel_rarely,15,2,Unknown,F,Married,1990
+39,No,travel_rarely,24,1,Life Sciences,M,Single,1984
+41,No,travel_rarely,28,4,Life Sciences,F,Married,1982
+34,No,Unknown,28,3,Marketing,F,Married,1989
+39,No,travel_rarely,6,1,Unknown,M,Unknown,1984
+34,No,travel_rarely,7,4,Unknown,F,Single,1989
+46,No,Unknown,5,4,Unknown,M,Single,1977
+41,No,travel_frequently,10,3,Life Sciences,M,Divorced,1982
+39,No,Unknown,2,4,Unknown,F,Single,1984
+42,No,travel_rarely,2,3,Medical,F,Divorced,1981
+33,No,travel_frequently,5,4,Unknown,F,Married,1990
+35,No,travel_rarely,5,4,Technical Degree,M,Single,1988
+41,No,travel_rarely,10,4,Human Resources,M,Divorced,1982
+27,No,Unknown,7,3,Unknown,F,Unknown,1996
+51,No,travel_rarely,26,4,Marketing,F,Married,1972
+47,No,travel_rarely,2,2,Marketing,F,Unknown,1976
+50,No,non-travel,2,4,Unknown,M,Divorced,1973
+35,No,travel_rarely,21,1,Life Sciences,F,Married,1988
+39,No,travel_rarely,1,1,Unknown,F,Married,1984
+41,No,Unknown,7,2,Unknown,F,Unknown,1982
+42,No,Unknown,2,2,Medical,M,Unknown,1981
+52,No,travel_rarely,7,4,Life Sciences,M,Single,1971
+38,No,Unknown,1,3,Unknown,M,Unknown,1985
+35,No,Unknown,4,4,Life Sciences,M,Single,1988
+28,No,travel_rarely,29,1,Life Sciences,M,Married,1995
+44,No,Unknown,28,3,Life Sciences,M,Married,1979
+50,No,Unknown,22,5,Unknown,M,Unknown,1973
+39,No,Unknown,6,3,Unknown,M,Married,1984
+49,No,Unknown,13,4,Unknown,F,Unknown,1974
+45,No,Unknown,28,2,Technical Degree,F,Single,1978
+27,No,Unknown,15,3,Unknown,F,Married,1996
+42,No,travel_rarely,2,3,Unknown,M,Married,1981
+49,No,Unknown,2,3,Unknown,M,Married,1974
+29,No,travel_rarely,15,2,Life Sciences,F,Single,1994
+34,No,non-travel,12,4,Marketing,M,Unknown,1989
+36,No,Unknown,11,3,Unknown,M,Single,1987
+29,No,travel_rarely,15,3,Unknown,M,Unknown,1994
+26,No,Unknown,1,3,Unknown,F,Unknown,1997
+28,No,Unknown,9,4,Life Sciences,M,Single,1995
+42,No,travel_frequently,30,4,Technical Degree,F,Married,1981
+31,No,travel_rarely,2,1,Life Sciences,M,Unknown,1992
+37,No,non-travel,9,4,Unknown,M,Divorced,1986
+50,No,Unknown,3,3,Unknown,M,Married,1973
+34,No,Unknown,1,2,Life Sciences,M,Unknown,1989
+27,No,travel_frequently,3,1,Medical,F,Unknown,1996
+25,No,Unknown,42,1,Unknown,F,Single,1998
+34,No,Unknown,2,4,Unknown,F,Unknown,1989
+35,No,Unknown,16,1,Medical,F,Unknown,1988
+33,No,Unknown,1,4,Unknown,F,Married,1990
+29,No,Unknown,28,4,Life Sciences,F,Divorced,1994
+29,No,travel_frequently,10,3,Unknown,F,Divorced,1994
+31,No,travel_rarely,11,2,Unknown,M,Married,1992
+47,No,travel_rarely,1,3,Unknown,M,Unknown,1976
+32,No,Unknown,1,4,Unknown,M,Married,1991
+32,No,Unknown,2,3,Medical,M,Divorced,1991
+29,No,travel_rarely,2,3,Life Sciences,M,Married,1994
+56,No,Unknown,13,3,Unknown,M,Unknown,1967
+28,No,Unknown,4,3,Medical,M,Unknown,1995
+25,Yes,travel_rarely,5,3,Unknown,M,Single,1998
+56,Yes,Unknown,14,4,Life Sciences,F,Unknown,1967
+26,No,Unknown,6,3,Unknown,F,Married,1997
+32,Yes,Unknown,9,3,Medical,F,Unknown,1991
+30,No,travel_rarely,18,3,Life Sciences,F,Single,1993
+50,No,travel_rarely,11,3,Unknown,F,Unknown,1973
+32,No,Unknown,6,5,Life Sciences,M,Unknown,1991
+45,No,travel_rarely,4,2,Unknown,F,Unknown,1978
+43,No,Unknown,7,3,Unknown,M,Divorced,1980
+29,Yes,Unknown,27,3,Marketing,F,Married,1994
+31,No,non-travel,1,4,Medical,M,Unknown,1992
+33,Yes,Unknown,14,3,Unknown,M,Married,1990
+31,Yes,Unknown,29,2,Unknown,M,Unknown,1992
+37,No,Unknown,6,4,Unknown,M,Unknown,1986
+27,No,non-travel,1,1,Marketing,M,Unknown,1996
+41,No,travel_rarely,6,3,Unknown,M,Single,1982
+37,No,travel_rarely,10,3,Medical,F,Unknown,1986
+40,Yes,Unknown,22,2,Unknown,M,Unknown,1983
+55,No,Unknown,2,3,Unknown,F,Single,1968
+26,Yes,travel_frequently,3,1,Unknown,M,Unknown,1997
+25,No,Unknown,4,2,Unknown,F,Single,1998
+42,No,travel_frequently,12,2,Unknown,F,Unknown,1981
+30,No,travel_rarely,2,3,Life Sciences,F,Unknown,1993
+35,No,travel_rarely,22,3,Life Sciences,M,Single,1988
+32,No,travel_rarely,9,4,Unknown,F,Married,1991
+47,Yes,Unknown,27,2,Life Sciences,F,Unknown,1976
+30,No,travel_frequently,5,4,Life Sciences,M,Divorced,1993
+45,No,Unknown,9,3,Marketing,M,Divorced,1978
+36,No,travel_rarely,8,3,Life Sciences,M,Unknown,1987
+31,No,Unknown,11,4,Unknown,M,Unknown,1992
+37,No,travel_frequently,21,2,Medical,F,Married,1986
+42,No,Unknown,14,2,Unknown,F,Unknown,1981
+50,No,Unknown,1,2,Medical,M,Divorced,1973
+59,No,travel_rarely,1,2,Unknown,M,Unknown,1964
+56,No,Unknown,9,3,Medical,F,Married,1967
+48,No,Unknown,1,4,Unknown,M,Single,1975
+39,No,Unknown,9,3,Life Sciences,M,Single,1984
+42,No,travel_rarely,4,4,Marketing,M,Single,1981
+44,Yes,Unknown,10,4,Unknown,M,Single,1979
+29,No,travel_rarely,15,1,Unknown,F,Married,1994
+54,No,travel_frequently,1,4,Unknown,F,Unknown,1969
+46,No,Unknown,4,2,Unknown,F,Married,1977
+32,Yes,travel_rarely,7,2,Life Sciences,M,Unknown,1991
+34,No,non-travel,26,1,Unknown,F,Divorced,1989
+39,No,travel_rarely,21,4,Unknown,M,Married,1984
+33,No,Unknown,41,1,Life Sciences,M,Married,1990
+39,No,non-travel,25,2,Unknown,M,Unknown,1984
+52,No,travel_rarely,8,4,Other,F,Married,1971
+36,No,Unknown,3,4,Unknown,F,Single,1987
+36,No,Unknown,47,4,Life Sciences,M,Single,1987
+24,No,travel_rarely,4,1,Unknown,F,Married,1999
+28,No,Unknown,5,3,Unknown,M,Single,1995
+47,No,travel_rarely,14,3,Medical,F,Married,1976
+40,Yes,Unknown,9,4,Life Sciences,M,Single,1983
+45,No,travel_rarely,49,3,Technical Degree,M,Married,1978
+40,No,travel_rarely,9,2,Unknown,M,Unknown,1983
+40,No,Unknown,14,2,Life Sciences,F,Married,1983
+43,No,Unknown,27,3,Unknown,M,Divorced,1980
+30,No,Unknown,7,3,Unknown,M,Unknown,1993
+38,No,Unknown,2,2,Unknown,F,Unknown,1985
+37,No,travel_rarely,10,3,Unknown,F,Married,1986
+36,No,travel_rarely,11,2,Life Sciences,M,Divorced,1987
+23,Yes,travel_rarely,8,1,Medical,M,Single,2000
+35,No,Unknown,2,4,Unknown,M,Unknown,1988
+31,No,travel_frequently,24,1,Technical Degree,F,Single,1992
+38,No,travel_rarely,6,2,Other,F,Married,1985
+35,No,Unknown,23,4,Medical,M,Married,1988
+27,No,travel_frequently,48,2,Unknown,F,Single,1996
+41,No,Unknown,8,3,Unknown,F,Unknown,1982
+33,No,travel_rarely,15,4,Marketing,M,Single,1990
+49,No,Unknown,2,1,Life Sciences,M,Married,1974
+36,No,non-travel,9,4,Unknown,M,Unknown,1987
+36,Yes,travel_rarely,9,4,Life Sciences,M,Single,1987
+43,No,travel_rarely,2,2,Medical,F,Unknown,1980
+33,No,travel_frequently,18,3,Life Sciences,F,Married,1990
+44,No,Unknown,1,5,Marketing,F,Unknown,1979
+38,No,Unknown,29,5,Life Sciences,F,Single,1985
+50,No,Unknown,7,2,Medical,F,Divorced,1973
+59,No,travel_frequently,1,1,Unknown,F,Single,1964
+40,No,travel_frequently,1,4,Life Sciences,M,Married,1983
+54,No,travel_rarely,2,4,Technical Degree,F,Unknown,1969
+54,No,non-travel,26,3,Unknown,F,Single,1969
+24,No,Unknown,18,1,Life Sciences,M,Married,1999
+30,No,travel_rarely,2,1,Unknown,M,Single,1993
+34,No,travel_frequently,10,4,Unknown,F,Unknown,1989
+38,No,travel_rarely,1,4,Life Sciences,F,Single,1985
+42,No,Unknown,21,2,Unknown,F,Divorced,1981
+34,No,Unknown,10,4,Unknown,M,Divorced,1989
+30,Yes,Unknown,26,4,Unknown,F,Unknown,1993
+29,Yes,travel_rarely,13,1,Medical,M,Single,1994
+32,No,Unknown,4,2,Unknown,F,Married,1991
+25,No,Unknown,5,2,Life Sciences,M,Unknown,1998
+53,No,Unknown,3,4,Unknown,M,Married,1970
+26,No,Unknown,11,2,Medical,M,Married,1997
+28,No,travel_rarely,16,2,Medical,M,Single,1995
+58,No,Unknown,1,4,Life Sciences,M,Divorced,1965
+27,No,travel_rarely,5,3,Unknown,F,Single,1996
+54,No,travel_frequently,20,4,Life Sciences,F,Unknown,1969
+29,No,non-travel,2,3,Life Sciences,M,Unknown,1994
+50,No,travel_rarely,10,3,Unknown,M,Unknown,1973
+24,Yes,travel_rarely,1,1,Technical Degree,F,Single,1999
+34,No,Unknown,2,4,Unknown,M,Unknown,1989
+36,No,non-travel,30,4,Medical,M,Single,1987
+41,No,non-travel,10,2,Unknown,M,Single,1982
+26,No,travel_rarely,28,2,Marketing,M,Married,1997
+27,No,Unknown,6,4,Unknown,F,Divorced,1996
+27,Yes,travel_rarely,2,1,Marketing,M,Divorced,1996
+23,No,travel_rarely,49,1,Unknown,M,Unknown,2000
+39,No,travel_rarely,24,3,Unknown,F,Unknown,1984
+52,No,non-travel,19,4,Medical,M,Unknown,1971
+26,Yes,Unknown,8,3,Unknown,M,Single,1997
+54,No,Unknown,19,4,Unknown,F,Divorced,1969
+50,No,travel_rarely,2,3,Unknown,M,Unknown,1973
+42,No,Unknown,1,2,Life Sciences,F,Married,1981
+32,No,Unknown,8,2,Unknown,F,Married,1991
+42,No,Unknown,3,3,Unknown,F,Married,1981
+38,No,non-travel,10,3,Unknown,F,Unknown,1985
+45,No,travel_rarely,1,4,Unknown,F,Divorced,1978
+31,No,travel_frequently,1,1,Unknown,F,Unknown,1992
+22,No,Unknown,8,1,Life Sciences,M,Unknown,2001
+59,No,travel_rarely,2,3,Unknown,F,Unknown,1964
+45,No,Unknown,11,2,Unknown,F,Married,1978
+45,No,travel_rarely,24,4,Unknown,M,Unknown,1978
+26,No,Unknown,26,1,Medical,F,Unknown,1997
+28,No,Unknown,42,1,Unknown,M,Married,1995
+30,No,travel_rarely,10,3,Marketing,M,Married,1993
+43,Yes,Unknown,9,3,Unknown,F,Single,1980
+30,No,travel_rarely,29,4,Life Sciences,M,Divorced,1993
+46,No,travel_rarely,2,4,Technical Degree,M,Divorced,1977
+42,No,non-travel,2,5,Unknown,M,Married,1981
+27,No,Unknown,4,2,Unknown,M,Divorced,1996
+56,No,travel_rarely,8,4,Life Sciences,M,Single,1967
+41,No,travel_frequently,1,3,Marketing,F,Unknown,1982
+28,No,Unknown,26,3,Life Sciences,M,Married,1995
+52,No,travel_frequently,28,2,Unknown,F,Married,1971
+26,No,travel_rarely,2,1,Medical,M,Single,1997
+49,Yes,travel_frequently,28,2,Unknown,M,Unknown,1974
+34,No,travel_frequently,1,4,Other,M,Unknown,1989
+32,No,Unknown,7,5,Marketing,M,Unknown,1991
+33,No,Unknown,7,3,Medical,M,Unknown,1990
+29,Yes,Unknown,13,3,Unknown,F,Single,1994
+30,No,Unknown,16,3,Life Sciences,M,Unknown,1993
+23,No,Unknown,11,1,Life Sciences,M,Single,2000
+33,No,Unknown,25,3,Unknown,M,Unknown,1990
+35,No,Unknown,28,4,Unknown,F,Married,1988
+38,No,travel_frequently,10,4,Unknown,M,Unknown,1985
+28,No,Unknown,27,3,Unknown,F,Divorced,1995
+37,No,Unknown,19,3,Life Sciences,M,Unknown,1986
+24,No,Unknown,2,1,Technical Degree,F,Unknown,1999
+36,No,Unknown,7,3,Unknown,M,Unknown,1987
+53,No,travel_rarely,24,4,Medical,M,Married,1970
+37,No,travel_frequently,1,4,Unknown,M,Unknown,1986
+32,No,travel_rarely,19,3,Unknown,M,Married,1991
+42,No,travel_rarely,12,3,Medical,M,Divorced,1981
+41,No,Unknown,9,4,Life Sciences,M,Divorced,1982
+44,Yes,Unknown,1,2,Unknown,M,Unknown,1979
+39,No,Unknown,10,1,Medical,M,Single,1984
+40,No,Unknown,1,3,Unknown,F,Unknown,1983
+42,No,Unknown,10,4,Technical Degree,M,Married,1981
+34,No,travel_rarely,4,3,Unknown,M,Married,1989
+37,No,travel_rarely,7,4,Medical,M,Unknown,1986
+27,No,Unknown,2,4,Technical Degree,M,Unknown,1996
+35,No,travel_rarely,18,4,Unknown,M,Unknown,1988
+28,No,non-travel,16,3,Medical,M,Single,1995
+29,No,Unknown,1,3,Life Sciences,M,Married,1994
+54,No,Unknown,9,2,Unknown,F,Married,1969
+24,No,travel_rarely,41,2,Life Sciences,M,Single,1999
+38,No,travel_frequently,6,4,Unknown,M,Married,1985
+42,No,Unknown,18,4,Unknown,M,Unknown,1981
+41,No,Unknown,1,3,Life Sciences,M,Unknown,1982
+25,No,travel_rarely,8,2,Unknown,F,Unknown,1998
+50,Yes,Unknown,1,4,Unknown,M,Unknown,1973
+45,No,Unknown,20,3,Unknown,F,Unknown,1978
+35,No,travel_rarely,1,4,Unknown,F,Married,1988
+29,No,travel_rarely,13,2,Other,M,Unknown,1994
+34,No,Unknown,8,3,Unknown,M,Unknown,1989
+27,No,travel_rarely,2,1,Unknown,M,Married,1996
+31,No,Unknown,26,1,Unknown,M,Divorced,1992
+34,No,travel_rarely,38,2,Unknown,M,Divorced,1989
+28,Yes,travel_rarely,24,3,Life Sciences,M,Single,1995
+32,No,travel_rarely,5,2,Unknown,M,Divorced,1991
+38,No,Unknown,2,3,Life Sciences,M,Single,1985
+24,No,Unknown,11,2,Unknown,F,Unknown,1999
+34,Yes,Unknown,6,1,Unknown,M,Single,1989
+32,Yes,travel_frequently,16,1,Unknown,F,Unknown,1991
+46,No,travel_rarely,2,4,Marketing,F,Single,1977
+44,No,Unknown,10,4,Other,M,Married,1979
+50,Yes,travel_rarely,3,2,Unknown,M,Married,1973
+35,No,Unknown,2,3,Marketing,F,Married,1988
+28,Yes,Unknown,5,4,Unknown,M,Single,1995
+26,No,Unknown,22,3,Unknown,F,Married,1997
+35,No,Unknown,31,3,Medical,M,Married,1988
+37,No,travel_rarely,20,4,Medical,M,Unknown,1986
+46,No,travel_rarely,38,2,Medical,M,Divorced,1977
+34,No,travel_rarely,1,2,Medical,M,Married,1989
+51,No,travel_rarely,9,4,Unknown,M,Unknown,1972
+24,No,travel_rarely,3,2,Other,F,Married,1999
+44,No,Unknown,23,3,Unknown,M,Married,1979
+37,Yes,travel_rarely,6,4,Human Resources,M,Divorced,1986
+25,No,Unknown,7,1,Unknown,M,Married,1998
+43,No,Unknown,26,3,Medical,F,Single,1980
+31,Yes,travel_rarely,20,3,Unknown,F,Unknown,1992
+36,No,Unknown,6,2,Medical,M,Divorced,1987
+51,Yes,travel_frequently,16,4,Unknown,M,Unknown,1972
+38,No,travel_rarely,3,5,Technical Degree,F,Unknown,1985
+30,No,travel_rarely,5,3,Technical Degree,F,Divorced,1993
+27,No,non-travel,9,3,Medical,M,Unknown,1996
+28,No,Unknown,21,3,Medical,M,Married,1995
+27,No,Unknown,17,3,Unknown,M,Unknown,1996
+56,No,travel_rarely,8,3,Life Sciences,F,Divorced,1967
+38,No,travel_rarely,9,2,Unknown,F,Single,1985
+31,No,travel_rarely,12,1,Medical,F,Unknown,1992
+34,No,travel_rarely,27,2,Medical,F,Unknown,1989
+50,No,Unknown,1,3,Unknown,M,Unknown,1973
+53,No,Unknown,13,2,Unknown,F,Divorced,1970
+35,No,travel_frequently,24,3,Medical,F,Single,1988
+40,No,Unknown,10,5,Life Sciences,M,Unknown,1983
+46,No,Unknown,1,4,Unknown,M,Unknown,1977
+30,Yes,Unknown,3,3,Technical Degree,F,Unknown,1993
+54,No,Unknown,3,3,Unknown,F,Married,1969
+33,No,travel_rarely,4,4,Unknown,F,Married,1990
+52,No,travel_rarely,2,3,Unknown,F,Single,1971
+39,No,Unknown,24,4,Medical,F,Divorced,1984
+31,No,Unknown,3,4,Medical,M,Divorced,1992
+33,No,travel_rarely,5,4,Life Sciences,F,Married,1990
+45,No,Unknown,23,4,Life Sciences,M,Unknown,1978
+42,No,Unknown,17,2,Unknown,F,Single,1981
+29,No,Unknown,19,2,Marketing,M,Divorced,1994
+25,No,travel_rarely,1,3,Unknown,F,Married,1998
+32,No,Unknown,2,1,Unknown,M,Unknown,1991
+21,No,travel_rarely,3,2,Unknown,M,Single,2002
+37,No,non-travel,1,4,Medical,F,Divorced,1986
+38,No,travel_rarely,23,4,Life Sciences,M,Unknown,1985
+26,Yes,travel_rarely,16,4,Medical,M,Divorced,1997
+49,No,Unknown,10,4,Life Sciences,F,Single,1974
+37,No,travel_frequently,9,3,Medical,M,Married,1986
+31,No,travel_rarely,11,4,Unknown,M,Married,1992
+31,No,travel_rarely,2,3,Human Resources,M,Unknown,1992
+52,Yes,Unknown,17,4,Medical,M,Unknown,1971
+28,Yes,Unknown,2,4,Medical,M,Married,1995
+47,No,travel_rarely,5,5,Unknown,M,Married,1976
+29,No,Unknown,9,5,Other,M,Unknown,1994
+37,No,Unknown,5,2,Medical,M,Unknown,1986
+23,No,Unknown,26,1,Unknown,M,Unknown,2000
+42,No,travel_rarely,2,1,Unknown,M,Divorced,1981
+30,No,Unknown,25,2,Unknown,F,Unknown,1993
+21,Yes,Unknown,31,1,Unknown,F,Single,2002
+57,No,travel_rarely,1,4,Medical,M,Unknown,1966
+29,No,Unknown,17,3,Unknown,M,Unknown,1994
+36,No,travel_rarely,2,3,Unknown,F,Married,1987
+34,Yes,non-travel,19,3,Marketing,M,Unknown,1989
+24,No,Unknown,10,4,Marketing,F,Divorced,1999
+42,No,Unknown,1,4,Unknown,F,Unknown,1981
+54,No,Unknown,5,2,Medical,M,Married,1969
+34,No,Unknown,4,4,Unknown,F,Married,1989
+43,No,Unknown,21,3,Unknown,M,Unknown,1980
+43,No,travel_rarely,8,4,Other,F,Unknown,1980
+31,No,travel_rarely,1,2,Unknown,M,Married,1992
+45,No,Unknown,10,2,Life Sciences,M,Married,1978
+34,Yes,travel_frequently,6,2,Unknown,F,Unknown,1989
+29,No,Unknown,3,4,Unknown,M,Unknown,1994
+46,No,Unknown,10,3,Marketing,F,Unknown,1977
+30,No,travel_rarely,7,1,Marketing,M,Single,1993
+42,No,Unknown,5,2,Other,M,Married,1981
+22,Yes,Unknown,25,1,Technical Degree,M,Single,2001
+29,No,travel_rarely,19,3,Technical Degree,M,Divorced,1994
+46,No,travel_frequently,18,1,Medical,F,Married,1977
+32,Yes,Unknown,11,4,Other,M,Unknown,1991
+24,No,Unknown,24,3,Medical,M,Unknown,1999
+35,No,travel_rarely,25,2,Unknown,M,Single,1988
+42,No,Unknown,2,4,Life Sciences,F,Married,1981
+48,No,travel_rarely,1,4,Unknown,F,Married,1975
+44,No,travel_rarely,1,4,Unknown,F,Unknown,1979
+34,No,Unknown,14,3,Unknown,F,Unknown,1989
+44,No,travel_rarely,3,4,Unknown,M,Unknown,1979
+22,No,travel_rarely,6,1,Medical,M,Married,2001
+26,No,travel_rarely,6,3,Unknown,F,Unknown,1997
+36,No,Unknown,9,2,Medical,M,Unknown,1987
+23,No,travel_rarely,4,3,Unknown,M,Unknown,2000
+25,No,Unknown,8,3,Life Sciences,M,Unknown,1998
+48,No,Unknown,14,1,Unknown,M,Married,1975
+60,No,travel_rarely,16,4,Unknown,M,Single,1963
+50,No,Unknown,8,4,Marketing,M,Married,1973
+44,No,non-travel,24,3,Unknown,M,Single,1979
+47,No,travel_frequently,3,3,Unknown,F,Divorced,1976
+42,Yes,Unknown,19,3,Unknown,M,Divorced,1981
+43,No,travel_frequently,15,3,Life Sciences,M,Married,1980
+53,No,Unknown,6,3,Unknown,M,Single,1970
+26,No,travel_frequently,1,2,Life Sciences,F,Unknown,1997
+34,No,travel_rarely,1,4,Unknown,F,Single,1989
+27,No,Unknown,8,1,Marketing,M,Married,1996
+30,No,travel_rarely,18,3,Unknown,M,Married,1993
+52,No,travel_rarely,25,4,Life Sciences,F,Unknown,1971
+33,Yes,travel_rarely,16,3,Marketing,F,Single,1990
+34,No,travel_frequently,16,4,Unknown,F,Single,1989
+34,No,Unknown,3,2,Unknown,M,Unknown,1989
+44,No,travel_rarely,4,3,Unknown,M,Single,1979
+32,No,Unknown,13,4,Life Sciences,M,Divorced,1991
+22,No,Unknown,1,2,Life Sciences,M,Unknown,2001
+44,No,travel_rarely,8,4,Life Sciences,M,Unknown,1979
+35,Yes,travel_frequently,25,4,Life Sciences,F,Divorced,1988
+25,No,Unknown,4,1,Unknown,M,Unknown,1998
+24,No,non-travel,19,1,Life Sciences,M,Unknown,1999
+38,No,travel_rarely,9,3,Marketing,M,Unknown,1985
+29,Yes,travel_rarely,1,3,Medical,F,Unknown,1994
+43,No,travel_frequently,1,3,Life Sciences,F,Married,1980
+28,No,travel_rarely,5,4,Medical,M,Single,1995
+20,Yes,travel_rarely,2,3,Unknown,F,Single,2003
+47,No,Unknown,2,4,Life Sciences,F,Single,1976
+28,No,Unknown,9,3,Medical,F,Divorced,1995
+33,No,travel_rarely,1,4,Unknown,M,Single,1990
+35,No,travel_rarely,48,3,Unknown,F,Unknown,1988
+31,Yes,Unknown,9,2,Medical,M,Single,1992
+33,No,travel_rarely,13,1,Life Sciences,F,Single,1990
+27,No,Unknown,24,4,Unknown,F,Married,1996
+35,Yes,travel_rarely,14,4,Other,M,Divorced,1988
+30,Yes,Unknown,5,3,Unknown,F,Unknown,1993
+48,No,travel_rarely,6,3,Unknown,M,Unknown,1975
+27,No,Unknown,2,4,Unknown,F,Unknown,1996
+35,No,travel_rarely,10,3,Other,M,Unknown,1988
+26,Yes,non-travel,29,2,Medical,M,Single,1997
+33,No,non-travel,8,1,Life Sciences,F,Unknown,1990
+26,Yes,Unknown,2,3,Life Sciences,M,Married,1997
+46,No,Unknown,47,4,Medical,M,Unknown,1977
+20,Yes,Unknown,9,3,Marketing,F,Single,2003
+30,No,Unknown,20,3,Other,M,Married,1993
+27,No,non-travel,8,5,Unknown,M,Married,1996
+55,No,Unknown,2,1,Unknown,M,Married,1968
+33,No,travel_rarely,5,3,Life Sciences,M,Unknown,1990
+28,No,Unknown,15,2,Life Sciences,M,Unknown,1995
+34,No,Unknown,3,1,Life Sciences,M,Unknown,1989
+33,Yes,Unknown,25,3,Medical,M,Single,1990
+33,No,Unknown,7,3,Life Sciences,F,Married,1990
+21,No,Unknown,1,1,Unknown,F,Single,2002
+31,No,travel_frequently,20,3,Unknown,M,Married,1992
+34,No,Unknown,2,2,Unknown,M,Single,1989
+33,Yes,Unknown,9,4,Unknown,F,Single,1990
+31,Yes,Unknown,15,3,Medical,M,Unknown,1992
+37,No,travel_rarely,25,2,Unknown,F,Unknown,1986
+27,No,travel_rarely,6,3,Unknown,M,Married,1996
+35,No,travel_frequently,4,4,Other,M,Married,1988
+45,No,Unknown,7,3,Medical,F,Unknown,1978
+46,No,Unknown,15,2,Life Sciences,M,Unknown,1977
+32,No,Unknown,13,3,Other,F,Married,1991
+28,No,Unknown,1,4,Medical,M,Single,1995
+35,No,travel_rarely,6,1,Life Sciences,M,Married,1988
+28,No,travel_rarely,1,3,Technical Degree,M,Single,1995
+25,No,Unknown,1,3,Medical,F,Single,1998
+58,No,Unknown,23,4,Life Sciences,M,Unknown,1965
+30,No,travel_rarely,6,3,Technical Degree,F,Married,1993
+50,No,Unknown,46,3,Life Sciences,F,Married,1973
+41,No,Unknown,10,2,Medical,M,Single,1982
+31,Yes,Unknown,1,3,Unknown,F,Unknown,1992
+44,Yes,Unknown,3,3,Life Sciences,M,Unknown,1979
+25,No,travel_rarely,19,1,Medical,M,Married,1998
+40,No,travel_rarely,1,4,Life Sciences,M,Unknown,1983
+27,No,travel_frequently,2,1,Life Sciences,M,Single,1996
+35,Yes,Unknown,18,4,Marketing,F,Married,1988
+31,Yes,Unknown,22,4,Unknown,M,Married,1992
+41,No,Unknown,22,3,Unknown,F,Unknown,1982
+32,No,Unknown,2,1,Marketing,M,Married,1991
+27,No,Unknown,10,3,Marketing,F,Married,1996
+27,Yes,travel_rarely,22,4,Life Sciences,F,Single,1996
+37,No,Unknown,11,3,Medical,F,Single,1986
+35,No,travel_frequently,18,2,Life Sciences,M,Unknown,1988
+25,No,Unknown,1,3,Unknown,M,Unknown,1998
+30,No,Unknown,7,4,Marketing,F,Divorced,1993
+36,No,Unknown,16,4,Marketing,F,Unknown,1987
+25,Yes,travel_rarely,9,2,Unknown,M,Unknown,1998
+56,No,Unknown,1,2,Life Sciences,F,Unknown,1967
+41,No,Unknown,5,5,Medical,M,Unknown,1982
+31,Yes,travel_frequently,2,3,Life Sciences,M,Unknown,1992
+48,No,Unknown,7,3,Marketing,M,Divorced,1975
+34,Yes,Unknown,9,4,Unknown,F,Married,1989
+44,No,Unknown,5,3,Life Sciences,M,Single,1979
+49,No,travel_rarely,5,4,Unknown,M,Married,1974
+44,No,Unknown,20,3,Life Sciences,M,Unknown,1979
+28,Yes,Unknown,1,3,Unknown,M,Married,1995
+28,No,travel_frequently,7,3,Life Sciences,M,Single,1995
+49,No,travel_rarely,45,2,Medical,F,Married,1974
+29,No,travel_frequently,2,1,Life Sciences,F,Unknown,1994
+32,No,Unknown,10,3,Unknown,M,Unknown,1991
+31,Yes,travel_frequently,3,3,Life Sciences,F,Unknown,1992
+40,No,Unknown,43,2,Life Sciences,M,Divorced,1983
+33,No,Unknown,8,4,Life Sciences,M,Unknown,1990
+30,No,Unknown,14,4,Unknown,M,Married,1993
+38,Yes,travel_rarely,2,3,Medical,M,Married,1985
+48,No,travel_rarely,15,4,Unknown,F,Married,1975
+34,No,Unknown,1,4,Unknown,M,Unknown,1989
+38,No,travel_rarely,16,3,Life Sciences,F,Single,1985
+35,No,travel_rarely,10,4,Unknown,F,Single,1988
+23,No,Unknown,10,3,Unknown,M,Married,2000
+36,No,Unknown,6,4,Unknown,M,Unknown,1987
+34,No,travel_frequently,36,4,Unknown,M,Unknown,1989
+32,No,Unknown,5,4,Unknown,F,Married,1991
+21,No,Unknown,19,1,Medical,M,Single,2002
+40,No,Unknown,16,3,Unknown,F,Unknown,1983
+48,No,travel_frequently,4,5,Unknown,M,Unknown,1975
+35,Yes,Unknown,10,2,Medical,M,Unknown,1988
+27,No,travel_rarely,8,3,Medical,F,Unknown,1996
+27,No,Unknown,2,3,Medical,M,Single,1996
+36,No,Unknown,5,4,Life Sciences,F,Married,1987
+49,No,travel_rarely,22,4,Other,F,Married,1974
+20,No,travel_rarely,13,3,Medical,F,Single,2003
+36,No,non-travel,1,4,Unknown,F,Unknown,1987
+33,No,travel_rarely,2,4,Unknown,M,Unknown,1990
+49,No,Unknown,16,3,Medical,F,Divorced,1974
+36,No,travel_rarely,26,4,Unknown,M,Married,1987
+44,No,travel_rarely,1,3,Unknown,F,Unknown,1979
+55,No,Unknown,12,3,Technical Degree,M,Divorced,1968
+23,Yes,Unknown,7,3,Life Sciences,M,Divorced,2000
+31,No,Unknown,2,4,Life Sciences,M,Married,1992
+41,No,non-travel,4,3,Human Resources,M,Married,1982
+36,Yes,Unknown,13,5,Marketing,M,Unknown,1987
+23,No,Unknown,4,1,Unknown,F,Single,2000
+24,No,Unknown,35,3,Medical,M,Married,1999
+27,No,Unknown,48,3,Unknown,F,Unknown,1996
+29,No,Unknown,1,3,Unknown,M,Unknown,1994
+37,No,travel_rarely,9,2,Marketing,M,Unknown,1986
+46,No,Unknown,26,2,Life Sciences,M,Unknown,1977
+43,No,non-travel,9,3,Unknown,M,Unknown,1980
+41,No,travel_rarely,35,3,Unknown,M,Single,1982
+31,No,Unknown,7,4,Unknown,F,Unknown,1992
+28,No,travel_rarely,1,3,Medical,F,Unknown,1995
+38,No,Unknown,2,4,Unknown,F,Unknown,1985
+58,No,travel_frequently,15,4,Life Sciences,M,Married,1965
+29,Yes,travel_rarely,13,3,Unknown,M,Divorced,1994
+47,No,travel_rarely,9,4,Life Sciences,F,Single,1976
+28,No,Unknown,1,2,Life Sciences,M,Unknown,1995
+55,No,travel_rarely,2,4,Unknown,M,Unknown,1968
+29,No,Unknown,7,3,Life Sciences,M,Single,1994
+35,No,Unknown,16,2,Other,F,Married,1988
+34,Yes,non-travel,16,4,Technical Degree,M,Unknown,1989
+56,Yes,travel_rarely,24,2,Unknown,M,Single,1967
+36,No,Unknown,17,2,Marketing,M,Unknown,1987
+45,No,travel_frequently,1,4,Medical,M,Single,1978
+39,No,Unknown,21,4,Unknown,F,Unknown,1984
+31,No,Unknown,3,2,Unknown,M,Divorced,1992
+38,No,travel_frequently,1,4,Other,M,Unknown,1985
+54,No,Unknown,10,3,Unknown,F,Single,1969
+23,No,Unknown,12,2,Unknown,M,Single,2000
+25,No,Unknown,2,1,Other,M,Unknown,1998
+31,No,Unknown,2,2,Life Sciences,M,Unknown,1992
+35,No,travel_rarely,11,4,Medical,M,Married,1988
+22,No,Unknown,1,2,Unknown,M,Unknown,2001
+32,No,travel_rarely,29,4,Unknown,F,Single,1991
+29,Yes,travel_rarely,38,4,Unknown,M,Married,1994
+32,No,travel_rarely,2,3,Technical Degree,M,Unknown,1991
+40,No,travel_rarely,2,4,Unknown,M,Unknown,1983
+50,Yes,travel_rarely,40,3,Marketing,M,Unknown,1973
+26,No,Unknown,5,3,Other,F,Single,1997
+36,No,travel_frequently,23,2,Medical,M,Unknown,1987
+27,No,travel_rarely,4,3,Life Sciences,M,Unknown,1996
+33,No,Unknown,2,3,Medical,M,Unknown,1990
+36,No,Unknown,5,4,Life Sciences,F,Married,1987
+31,No,Unknown,1,4,Medical,M,Single,1992
+22,No,travel_rarely,2,1,Technical Degree,M,Unknown,2001
+27,No,Unknown,3,3,Unknown,M,Divorced,1996
+33,No,travel_rarely,2,3,Life Sciences,M,Unknown,1990
+36,No,travel_frequently,18,1,Unknown,F,Single,1987
+37,No,Unknown,18,2,Medical,F,Unknown,1986
+49,No,Unknown,45,2,Technical Degree,F,Unknown,1974
+35,No,Unknown,9,4,Unknown,M,Single,1988
+22,No,Unknown,11,3,Medical,F,Married,2001
+33,No,Unknown,1,5,Unknown,F,Unknown,1990
+31,Yes,Unknown,13,4,Medical,M,Divorced,1992
+45,Yes,Unknown,26,4,Unknown,F,Unknown,1978
+53,No,Unknown,7,3,Unknown,M,Married,1970
+34,No,travel_rarely,8,2,Unknown,F,Unknown,1989
+28,No,travel_rarely,8,2,Medical,M,Divorced,1995
+42,No,travel_frequently,2,1,Unknown,M,Single,1981
+40,No,Unknown,9,4,Unknown,M,Unknown,1983
+37,Yes,Unknown,1,4,Life Sciences,M,Married,1986
+38,No,Unknown,10,1,Unknown,M,Married,1985
+34,No,travel_rarely,10,4,Life Sciences,F,Married,1989
+50,No,travel_rarely,12,4,Medical,M,Married,1973
+26,Yes,Unknown,21,3,Unknown,M,Unknown,1997
+40,No,Unknown,29,2,Medical,F,Married,1983
+19,No,travel_rarely,47,2,Unknown,M,Single,2004
+20,No,travel_rarely,21,3,Marketing,M,Single,2003
+59,No,Unknown,3,3,Unknown,F,Single,1964
+30,No,travel_rarely,17,4,Medical,F,Unknown,1993
+45,No,travel_rarely,29,3,Unknown,M,Married,1978
+30,No,Unknown,42,1,Life Sciences,M,Unknown,1993
+24,No,Unknown,24,2,Technical Degree,M,Unknown,1999
+32,No,Unknown,5,2,Life Sciences,F,Married,1991
+28,Yes,travel_rarely,24,3,Medical,M,Married,1995
+49,No,Unknown,11,4,Unknown,F,Single,1974
+38,No,travel_frequently,2,2,Medical,F,Married,1985
+46,No,travel_rarely,2,4,Unknown,M,Unknown,1977
+34,Yes,travel_frequently,9,4,Life Sciences,M,Unknown,1989
+39,No,Unknown,20,3,Life Sciences,M,Unknown,1984
+26,Yes,travel_rarely,20,2,Unknown,F,Married,1997
+54,No,travel_rarely,7,4,Medical,F,Married,1969
+36,No,travel_frequently,2,1,Unknown,M,Unknown,1987
+32,Yes,travel_frequently,5,2,Unknown,F,Unknown,1991
+33,No,Unknown,1,2,Medical,M,Divorced,1990
+37,Yes,travel_rarely,2,2,Unknown,M,Single,1986
+59,No,travel_rarely,3,3,Medical,F,Unknown,1964
+21,No,travel_rarely,15,2,Unknown,M,Single,2002
+30,No,travel_rarely,9,2,Medical,M,Unknown,1993
+39,Yes,travel_rarely,18,3,Technical Degree,M,Married,1984
+35,No,Unknown,4,2,Other,M,Divorced,1988
+27,No,Unknown,2,4,Life Sciences,F,Divorced,1996
+26,Yes,Unknown,25,3,Life Sciences,M,Single,1997
+48,Yes,Unknown,1,2,Unknown,M,Unknown,1975
+35,No,non-travel,11,2,Medical,M,Married,1988
+55,No,travel_rarely,8,3,Unknown,F,Divorced,1968
+36,No,travel_rarely,6,3,Life Sciences,F,Unknown,1987
+55,No,Unknown,1,2,Unknown,M,Married,1968
+23,No,Unknown,2,1,Technical Degree,M,Divorced,2000
+20,Yes,Unknown,6,3,Life Sciences,F,Single,2003
+37,No,Unknown,2,2,Life Sciences,M,Divorced,1986
+22,No,Unknown,15,3,Unknown,F,Single,2001
+36,No,Unknown,3,2,Life Sciences,F,Divorced,1987
+19,Yes,travel_rarely,22,1,Marketing,M,Single,2004
+41,No,Unknown,9,4,Life Sciences,M,Unknown,1982
+19,No,Unknown,18,1,Unknown,F,Single,2004
+51,No,Unknown,7,4,Unknown,M,Married,1972
+58,No,Unknown,9,3,Unknown,F,Married,1965
+19,Yes,travel_rarely,2,3,Life Sciences,M,Single,2004
+38,No,travel_rarely,38,4,Unknown,M,Unknown,1985
+38,Yes,Unknown,29,1,Medical,M,Married,1985
+59,No,travel_rarely,3,3,Life Sciences,M,Married,1964
+50,No,travel_rarely,1,4,Medical,F,Divorced,1973
+41,No,travel_rarely,19,2,Life Sciences,M,Divorced,1982
+37,Yes,Unknown,10,3,Medical,M,Unknown,1986
+28,Yes,travel_rarely,2,4,Life Sciences,M,Single,1995
+31,No,travel_rarely,23,3,Medical,M,Unknown,1992
+44,Yes,travel_frequently,12,3,Life Sciences,M,Unknown,1979
+36,No,Unknown,3,3,Technical Degree,M,Single,1987
+36,No,Unknown,18,4,Life Sciences,M,Married,1987
+39,Yes,travel_rarely,3,2,Unknown,F,Married,1984
+42,No,travel_rarely,23,5,Unknown,F,Single,1981
+32,No,Unknown,2,3,Unknown,F,Married,1991
+48,No,travel_rarely,29,1,Medical,F,Married,1975
+42,No,travel_rarely,2,4,Unknown,M,Unknown,1981
+36,No,non-travel,1,5,Medical,F,Unknown,1987
+33,Yes,travel_rarely,5,3,Marketing,F,Single,1990
+46,No,Unknown,7,4,Medical,F,Married,1977
+21,Yes,travel_rarely,12,3,Life Sciences,F,Single,2002
+30,No,Unknown,2,1,Technical Degree,M,Unknown,1993
+30,Yes,travel_frequently,4,3,Unknown,M,Single,1993
+32,No,travel_rarely,10,4,Unknown,M,Single,1986
+38,No,travel_frequently,2,2,Unknown,M,Married,1985
+19,Yes,Unknown,2,2,Technical Degree,M,Single,2004
+57,No,travel_rarely,29,3,Unknown,M,Divorced,1966
+18,Yes,travel_frequently,5,3,Marketing,M,Unknown,2005
+40,No,Unknown,28,3,Other,M,Unknown,1983
+26,Yes,travel_rarely,24,3,Unknown,M,Single,1997
+24,No,Unknown,17,2,Other,M,Married,1999
+30,Yes,travel_frequently,12,4,Unknown,M,Married,1993
+37,No,travel_rarely,2,3,Marketing,M,Married,1986
+20,No,travel_rarely,1,3,Life Sciences,F,Unknown,2003
+43,No,Unknown,14,4,Other,M,Divorced,1980
+38,No,Unknown,27,1,Life Sciences,F,Unknown,1985
+29,No,Unknown,44,2,Medical,F,Unknown,1994
+20,Yes,Unknown,10,1,Medical,M,Single,2003
+35,No,non-travel,20,3,Unknown,M,Married,1988
+37,No,Unknown,10,2,Life Sciences,M,Single,1986
+38,No,Unknown,1,3,Unknown,F,Single,1985
+29,No,Unknown,10,3,Unknown,M,Single,1994
+38,No,travel_rarely,2,5,Medical,M,Married,1985
+34,No,travel_rarely,8,5,Life Sciences,F,Unknown,1989
+23,Yes,Unknown,6,3,Life Sciences,M,Unknown,2000
+24,No,Unknown,9,3,Life Sciences,M,Divorced,1999
+29,Yes,travel_rarely,1,2,Life Sciences,F,Married,1994
+40,No,travel_frequently,16,4,Medical,M,Unknown,1983
+30,No,travel_rarely,2,3,Unknown,F,Single,1993
+45,No,Unknown,2,3,Unknown,F,Unknown,1978
+53,No,travel_rarely,8,3,Marketing,M,Married,1970
+37,No,Unknown,19,2,Unknown,M,Single,1986
+32,Yes,travel_rarely,25,4,Unknown,M,Unknown,1991
+58,Yes,travel_frequently,2,1,Unknown,M,Divorced,1965
+21,Yes,travel_rarely,18,1,Other,F,Single,2002
+34,No,Unknown,48,3,Life Sciences,M,Unknown,1989
+58,No,Unknown,5,3,Unknown,F,Divorced,1965
+48,No,Unknown,20,4,Medical,M,Married,1975
+32,No,non-travel,1,3,Life Sciences,F,Married,1991
+25,Yes,Unknown,19,2,Marketing,M,Married,1998
+40,No,Unknown,10,4,Marketing,M,Divorced,1983
+19,Yes,Unknown,21,3,Other,M,Single,2004
+40,Yes,non-travel,24,3,Unknown,F,Single,1983
+29,Yes,travel_rarely,10,3,Unknown,F,Single,1994
+47,No,travel_rarely,18,2,Life Sciences,F,Single,1976
+18,No,Unknown,5,2,Unknown,M,Unknown,2005
+42,No,Unknown,5,2,Unknown,M,Unknown,1981
+37,Yes,travel_rarely,11,2,Medical,F,Unknown,1986
+36,Yes,Unknown,15,3,Unknown,M,Divorced,1987
+28,No,travel_rarely,10,1,Medical,M,Married,1995
+43,No,Unknown,25,3,Unknown,M,Unknown,1980
+21,Yes,travel_rarely,10,3,Unknown,F,Single,2002
+51,Yes,travel_rarely,4,4,Unknown,M,Married,1972
+37,No,Unknown,10,4,Unknown,F,Divorced,1986
+28,Yes,Unknown,1,3,Medical,M,Divorced,1995
+50,Yes,Unknown,1,4,Unknown,M,Single,1973
+34,No,Unknown,3,4,Unknown,M,Unknown,1989
+38,No,travel_rarely,2,2,Marketing,M,Single,1985
+18,Yes,Unknown,8,1,Unknown,M,Single,2005
+41,No,Unknown,12,4,Unknown,M,Unknown,1982
+35,No,travel_rarely,1,4,Medical,M,Unknown,1988
+32,No,Unknown,2,1,Unknown,F,Unknown,1991
+44,No,non-travel,26,3,Unknown,M,Single,1979
+41,Yes,non-travel,5,2,Life Sciences,M,Unknown,1982
+42,No,travel_frequently,26,5,Medical,F,Married,1981
+49,No,Unknown,4,2,Medical,M,Married,1974
+48,No,travel_rarely,2,2,Technical Degree,M,Single,1975
+29,No,travel_rarely,7,3,Unknown,M,Unknown,1994
+48,No,Unknown,1,3,Life Sciences,M,Single,1975
+19,No,Unknown,25,3,Life Sciences,F,Single,2004
+23,No,Unknown,1,2,Unknown,M,Unknown,2000
+25,Yes,travel_frequently,32,1,Unknown,M,Single,1998
+45,No,travel_frequently,25,3,Medical,F,Unknown,1978
+27,No,Unknown,11,3,Medical,F,Married,1996
+18,No,non-travel,1,3,Unknown,F,Single,2005
+31,Yes,travel_frequently,2,3,Unknown,F,Single,1992
+31,Yes,travel_frequently,1,4,Life Sciences,F,Single,1992
+31,Yes,travel_rarely,8,3,Life Sciences,F,Unknown,1992
+27,No,travel_rarely,11,1,Life Sciences,M,Married,1996
+39,Yes,Unknown,2,3,Unknown,F,Single,1984
+44,No,travel_frequently,1,5,Marketing,F,Married,1979
+30,No,Unknown,25,3,Unknown,M,Unknown,1993
+24,Yes,travel_frequently,9,3,Unknown,M,Unknown,1999
+28,Yes,Unknown,2,2,Medical,M,Single,1995
+33,No,Unknown,8,5,Unknown,M,Unknown,1990
+39,No,travel_rarely,6,3,Unknown,F,Single,1984
+42,No,Unknown,2,3,Medical,M,Married,1981
+29,No,travel_rarely,9,3,Unknown,M,Married,1994
+35,No,travel_rarely,1,3,Unknown,M,Unknown,1988
+34,No,Unknown,13,4,Medical,M,Single,1989
+26,No,travel_rarely,3,3,Unknown,F,Unknown,1997
+50,No,Unknown,24,3,Marketing,M,Married,1973
+35,No,Unknown,7,2,Life Sciences,M,Unknown,1988
+46,No,travel_rarely,1,4,Life Sciences,M,Unknown,1977
+18,Yes,travel_frequently,3,2,Medical,F,Single,2005
+29,No,Unknown,5,3,Unknown,M,Divorced,1994
+31,No,Unknown,5,4,Life Sciences,F,Unknown,1992
+41,No,travel_rarely,23,2,Unknown,M,Single,1982
+60,No,Unknown,1,4,Unknown,M,Divorced,1963
+24,Yes,Unknown,22,1,Unknown,M,Married,1999
+40,No,travel_rarely,8,2,Life Sciences,F,Unknown,1983
+47,No,non-travel,2,4,Marketing,M,Unknown,1976
+45,No,travel_rarely,41,3,Life Sciences,F,Married,1978
+34,No,Unknown,2,4,Unknown,M,Married,1989
+33,Yes,Unknown,16,3,Unknown,F,Unknown,1990
+31,Yes,travel_rarely,16,4,Unknown,M,Married,1992
+30,No,Unknown,16,3,Unknown,M,Married,1993
+38,No,travel_rarely,18,3,Medical,M,Married,1985
+22,Yes,travel_rarely,45,1,Medical,F,Unknown,2001
+18,No,Unknown,14,3,Unknown,F,Single,2005
+31,Yes,travel_rarely,18,5,Human Resources,M,Married,1992
+36,No,travel_rarely,2,4,Unknown,F,Unknown,1987
+32,No,travel_frequently,10,4,Marketing,M,Unknown,1991
+42,No,travel_rarely,8,3,Unknown,M,Unknown,1981
+29,No,travel_rarely,6,1,Unknown,M,Married,1994
+28,No,travel_rarely,3,3,Medical,F,Unknown,1995
+30,Yes,Unknown,9,3,Unknown,M,Unknown,1993
+26,No,Unknown,1,2,Life Sciences,F,Unknown,1997
+44,No,travel_rarely,1,4,Unknown,M,Unknown,1979
+29,Yes,travel_frequently,24,3,Technical Degree,M,Single,1994
+28,Yes,travel_rarely,13,2,Marketing,F,Unknown,1995
+56,No,travel_rarely,11,5,Unknown,F,Married,1967
+39,No,travel_rarely,9,2,Unknown,M,Married,1984
+58,No,Unknown,21,3,Unknown,F,Unknown,1965
+42,No,travel_rarely,12,4,Marketing,M,Divorced,1981
+27,Yes,Unknown,22,3,Unknown,F,Married,1996
+38,No,travel_rarely,1,3,Unknown,M,Single,1985
+32,No,Unknown,5,4,Life Sciences,M,Unknown,1991
+31,No,Unknown,2,1,Medical,F,Unknown,1992
+40,No,Unknown,44,4,Unknown,M,Married,1983
+23,Yes,Unknown,9,3,Unknown,M,Married,2000
+35,No,travel_rarely,26,4,Life Sciences,F,Single,1988
