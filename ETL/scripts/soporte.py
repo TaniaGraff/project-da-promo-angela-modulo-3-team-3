@@ -69,6 +69,20 @@ def reemplazar_valores_genero(df, columna='Gender'):
     df.loc[df[columna] == 0, columna] = 'M'
     df.loc[df[columna] == 1, columna] = 'F'
 
+"""Creamos función para reemplazar valores columna RemoteWork
+"""
+def remplazar_valores_remotework(df):
+    def map_values(value):
+        if str(value).lower() in ['1', 'true', 'yes']:
+            return 'yes'
+        elif str(value).lower() in ['0', 'false', 'no']:
+            return 'no'
+        else:
+            return value
+
+    df['RemoteWork'] = df['RemoteWork'].apply(map_values)
+    return df
+
 """Creamos función para cambiar columnas a tipo float.
 """
 lista_tofloat=['DailyRate', 'HourlyRate', 'MonthlyIncome']
@@ -97,8 +111,8 @@ def limpiar_y_convertir_a_entero(df):
 
     df['WORKLIFEBALANCE'] = df['WORKLIFEBALANCE'].apply(comasapuntos)
     df['WORKLIFEBALANCE'] = pd.to_numeric(df['WORKLIFEBALANCE'], errors='coerce').astype('Int64')
- 
 
+ 
 """Creamos función para cambiar columna Age a interger
 """
 def corregir_edades(df):

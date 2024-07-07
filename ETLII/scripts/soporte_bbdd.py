@@ -81,11 +81,11 @@ def crear_tabla_empleados(user, password, host='127.0.0.1', database='ABC_Corpor
 
         mycursor.execute("""
             CREATE TABLE IF NOT EXISTS Employees (
-            ID_FK INT PRIMARY KEY,
+            ID_FK INT AUTO_INCREMENT PRIMARY KEY,
             Age INT,
             Gender VARCHAR(100),
             MaritalStatus VARCHAR(100),
-            DateBirth DATE,
+            DateBirth YEAR,
             Education INT,
             EducationField VARCHAR(100),
             Attrition VARCHAR(100),
@@ -93,11 +93,11 @@ def crear_tabla_empleados(user, password, host='127.0.0.1', database='ABC_Corpor
             DistanceFromHome INT
             )
         """)
-
         print("Tabla 'Employees' creada correctamente.")
 
+        cnx.close()
     except mysql.connector.Error as err:
-        print(f"Error al crear la tabla 'Employees': {err}")
+        print(f"Error al crear la tabla Employees: {err}")
         print("Error Code:", err.errno)
         print("SQLSTATE", err.sqlstate)
         print("Message", err.msg)
@@ -117,11 +117,11 @@ def crear_tabla_job_details(user, password, host='127.0.0.1', database='ABC_Corp
 
         mycursor.execute("""
             CREATE TABLE JobDetails (
-            ID_FK INT PRIMARY KEY,
-            JobRole VARCHAR(100),
+            ID_FK INT AUTO_INCREMENT PRIMARY KEY,
             JobLevel INT,
+            JobRole VARCHAR(250),
             NumCompaniesWorked INT,
-            TotalWorkingYears INT,
+            TotalWorkingYears VARCHAR(100),
             YearsAtCompany INT,
             YearsSinceLastPromotion INT,
             YearsWithCurrManager INT
@@ -150,14 +150,14 @@ def crear_tabla_compensation(user, password, host='127.0.0.1', database='ABC_Cor
 
         mycursor.execute("""
             CREATE TABLE Compensation (
-            ID_FK INT PRIMARY KEY,
+            ID_FK INT AUTO_INCREMENT PRIMARY KEY,
             DailyRate INT,
             HourlyRate INT,
             MonthlyIncome INT,
             MonthlyRate INT,
-            StockOptionLevel INT,
-            PercentSalaryHike INT,
             OverTime VARCHAR(100),
+            PercentSalaryHike INT,
+            StockOptionLevel INT,
             TrainingTimesLastYear INT,
             RemoteWork VARCHAR(100)
             )
@@ -185,16 +185,17 @@ def crear_tabla_satisfaction(user, password, host='127.0.0.1', database='ABC_Cor
 
         mycursor.execute("""
             CREATE TABLE Satisfaction (
-            ID_FK INT PRIMARY KEY,
+            ID_FK INT AUTO_INCREMENT PRIMARY KEY,
             EnvironmentSatisfaction INT,
             JobInvolvement INT,
             JobSatisfaction INT,
+            PerformanceRating VARCHAR(100),
             RelationshipSatisfaction INT,
-            WorkLifeBalance INT,
-            PerformanceRating VARCHAR(100)
+            WorkLifeBalance INT
             )
         """)
         print("Tabla 'Satisfaction' creada correctamente.")
+
 
     except mysql.connector.Error as err:
         print(f"Error al crear la tabla Satisfaction: {err}")
@@ -206,3 +207,39 @@ def crear_tabla_satisfaction(user, password, host='127.0.0.1', database='ABC_Cor
         if 'cnx' in locals() and cnx.is_connected():
             mycursor.close()
             cnx.close()
+
+""" ____________________________________           INSERCIÓN DATOS            _____________________________________"""
+
+"""Creamos función para insertar datos en las tablas de la BBDD ABC_CORPORATION
+"""
+import soporte_bbdd
+
+def leer_csv_con_soporte(file_path):
+    df = soporte_bbdd.lectura_archivo(file_path)
+    lista_tuplas = [tuple(x) for x in df.to_numpy()]
+    return lista_tuplas
+
+
+
+def insertar_datos(query, user, password, host='127.0.0.1', database='ABC_Corporation', lista_tuplas=None, file_path=None):
+    if file_path:
+        lista_tuplas = leer_csv_con_soporte(file_path)
+
+    if lista_tuplas:
+        cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+        mycursor = cnx.cursor()
+        
+        try:
+            mycursor.executemany(query, lista_tuplas)
+            cnx.commit()
+            print(mycursor.rowcount, 'registros insertados')
+            cnx.close()
+
+        except mysql.connector.Error as err:
+            print(f"Error al insertar los datos: {err}")
+            print("Error Code:", err.errno)
+            print("SQLSTATE", err.sqlstate)
+            print("Message", err.msg)
+    else:
+        print("No hay datos para insertar")
+    

@@ -19,6 +19,9 @@ soporte.eliminar_columnas(df_HR)
 #Llamamos a la función para remplazar los valores de la columna Gender.
 soporte.reemplazar_valores_genero(df_HR)
 
+#Llamamos a la función para remplazar los valores de la columna RemoteWork.
+soporte.remplazar_valores_remotework(df_HR)
+
 #Llamamos a la función para cambiar columnas a float.
 soporte.limpiar_y_convertir_a_float(df_HR)
 

@@ -51,9 +51,48 @@ soporte_bbdd.crear_tabla_empleados('root', 'AlumnaAdalab')
 print('...................    TABLA DETAILS')
 soporte_bbdd.crear_tabla_job_details('root', 'AlumnaAdalab')
 
-print('...................     TABLA COMPENSATION')
+print('...................    TABLA COMPENSATION')
 soporte_bbdd.crear_tabla_compensation('root', 'AlumnaAdalab')
 
-print('...................     TABLA SATISFACTION')
+print('...................    TABLA SATISFACTION')
 soporte_bbdd.crear_tabla_satisfaction('root', 'AlumnaAdalab')
 
+print('__________________________      INSERCIÓN DATOS      ______________________________')
+
+print('...................    TABLA EMPLOYEES')
+query = """
+    INSERT INTO Employees (Age, Attrition, BusinessTravel, DistanceFromHome, Education, EducationField, Gender, MaritalStatus, DateBirth
+)
+    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+"""
+
+file_path = '/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETLII/data/output_data/Employees.csv'
+soporte_bbdd.insertar_datos(query, user='root', password='AlumnaAdalab', host='127.0.0.1', database='ABC_Corporation', file_path=file_path)
+print('___________________________________________________________________________________')
+
+print('...................    TABLA DETAILS')
+query = """
+    INSERT INTO JobDetails (JobLevel, JobRole, NumCompaniesWorked, TotalWorkingYears, YearsAtCompany, YearsSinceLastPromotion, YearsWithCurrManager)
+    VALUES (%s, %s, %s, %s, %s, %s, %s)
+"""
+file_path = '/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETLII/data/output_data/JobDetails.csv'
+soporte_bbdd.insertar_datos(query, user='root', password='AlumnaAdalab', host='127.0.0.1', database='ABC_Corporation', file_path=file_path)
+print('___________________________________________________________________________________')
+
+print('...................    TABLA COMPENSATION')
+query = """
+    INSERT INTO Compensation (DailyRate, HourlyRate, MonthlyIncome, MonthlyRate, OverTime, PercentSalaryHike, StockOptionLevel, TrainingTimesLastYear, RemoteWork)
+    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+"""
+
+file_path = '/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETLII/data/output_data/Compensation.csv'
+soporte_bbdd.insertar_datos(query, user='root', password='AlumnaAdalab', host='127.0.0.1', database='ABC_Corporation', file_path=file_path)
+print('___________________________________________________________________________________')
+
+print('...................    TABLA SATISFACTION')
+query = """
+    INSERT INTO Satisfaction (EnvironmentSatisfaction, JobInvolvement, JobSatisfaction, PerformanceRating, RelationshipSatisfaction, WorkLifeBalance)
+    VALUES (%s, %s, %s, %s, %s, %s)
+"""
+file_path = '/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETLII/data/output_data/Satisfaction.csv'
+soporte_bbdd.insertar_datos(query, user='root', password='AlumnaAdalab', host='127.0.0.1', database='ABC_Corporation', file_path=file_path)
