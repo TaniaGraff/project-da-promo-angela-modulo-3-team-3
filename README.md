@@ -24,21 +24,21 @@ GET TALENT | *Equipo desarrollo:* Reyes Altozano, Marta García, Tania Graff, Fr
 - `Fase 6`: Automatización de los procesos, desde la limpieza y transformación de los datos, hasta la insercción de datos en la BBDD de empleados de ABC Corporation.
 
 **Estructura de archivos**
-`ETL`
+- `ETL`
 Carpeta que incluye los archivos .py (soporte y main) necesarios para ejecutar la automatización del proceso ETL de limpieza y transformación de datos, así como los archivos .csv de entrada y salida que se han utilizado para dicha automatización.
 
    *Ejecución* Para realizar el proceso ETL de la primera y segunda fase, ejecutar desde la línea de comandos: python soporte.py | python main.py 
 
-`ETLII`
+- `ETLII`
 Carpeta que incluye los archivos .py (soporte y main) necesarios para ejecutar la automatización del proceso ETL de creación de BBDD e insercción de datos, así como los archivos .csv de entrada y salida que se han utilizado para dicha automatización.
 
    *Ejecución* Para realizar el proceso ETL de la primera y segunda fase, ejecutar desde la línea de comandos: python soporte_bbdd.py | python main_bbdd.py
 
-`Gráficos`
+- `Gráficos`
 Carpeta que incluye dos archivos .ipynb con las visualizaciones de las variables más relevantes para el análisis.
 
-`AB_Testing`
+- `AB_Testing`
 Carpeta que incluye 2 archivos .ipynb con las seis pruebas de experimentación A/B test que se han realizado para probar hipótesis críticas y determinar que factores tienen una mayor incidencia en la rotación de empleados.
 
-`Borradores`
+- `Borradores`
 Carpeta que incluye los archivos utilizados durante la fase inicial de trabajo, además de los working agreements del equipo.
