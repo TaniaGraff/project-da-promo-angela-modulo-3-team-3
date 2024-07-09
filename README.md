@@ -40,5 +40,7 @@ Carpeta que incluye dos archivos .ipynb con las visualizaciones de las variables
 - `AB_Testing`
 Carpeta que incluye 2 archivos .ipynb con las seis pruebas de experimentación A/B test que se han realizado para probar hipótesis críticas y determinar que factores tienen una mayor incidencia en la rotación de empleados.
 
+Contiene también el informe con las principales conclusiones de nuestro anaálisis.
+
 - `Borradores`
 Carpeta que incluye los archivos utilizados durante la fase inicial de trabajo, además de los working agreements del equipo.
