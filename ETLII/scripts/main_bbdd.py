@@ -5,7 +5,7 @@ print('__________________      APERTURA CSV Y RESETEO ÍNDICES      ____________
 print('...................     CSV EMPLOYEES')
 
 #Llamamos a la función para abrir el CSV EMPLOYEES.
-df_employees= soporte_bbdd.lectura_archivo('/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETL/data/output_data/Employees.csv')
+df_employees= soporte_bbdd.lectura_archivo('../../ETL/data/output_data/Employees.csv')
 
 #Llamamos a la función para resetear el índice.
 soporte_bbdd.resetear_indice_y_renombrar(df_employees)
@@ -14,7 +14,7 @@ soporte_bbdd.resetear_indice_y_renombrar(df_employees)
 soporte_bbdd.guardar_df(df_employees, 'Employees')
 
 print('...................     CSV JOB DETAILS')
-df_job_details= soporte_bbdd.lectura_archivo('/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETL/data/output_data/JobDetails.csv')
+df_job_details= soporte_bbdd.lectura_archivo('../../ETL/data/output_data/JobDetails.csv')
 
 #Llamamos a la función para resetear el índice.
 soporte_bbdd.resetear_indice_y_renombrar(df_job_details)
@@ -23,7 +23,7 @@ soporte_bbdd.resetear_indice_y_renombrar(df_job_details)
 soporte_bbdd.guardar_df(df_job_details, 'JobDetails')
 
 print('...................     CSV COMPENSATION')
-df_compensation= soporte_bbdd.lectura_archivo('/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETL/data/output_data/Compensation.csv')
+df_compensation= soporte_bbdd.lectura_archivo('../../ETL/data/output_data/Compensation.csv')
 
 #Llamamos a la función para resetear el índice.
 soporte_bbdd.resetear_indice_y_renombrar(df_compensation)
@@ -32,7 +32,7 @@ soporte_bbdd.resetear_indice_y_renombrar(df_compensation)
 soporte_bbdd.guardar_df(df_compensation, 'Compensation')
 
 print('...................     CSV SATISFACTION')
-df_satisfaction= soporte_bbdd.lectura_archivo('/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETL/data/output_data/Satisfaction.csv')
+df_satisfaction= soporte_bbdd.lectura_archivo('../../ETL/data/output_data/Satisfaction.csv')
 
 #Llamamos a la función para resetear el índice.
 soporte_bbdd.resetear_indice_y_renombrar(df_satisfaction)
@@ -66,7 +66,7 @@ query = """
     VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
 """
 
-file_path = '/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETLII/data/output_data/Employees.csv'
+file_path = '../data/output_data/Employees.csv'
 soporte_bbdd.insertar_datos(query, user='root', password='AlumnaAdalab', host='127.0.0.1', database='ABC_Corporation', file_path=file_path)
 print('___________________________________________________________________________________')
 
@@ -75,7 +75,7 @@ query = """
     INSERT INTO JobDetails (JobLevel, JobRole, NumCompaniesWorked, TotalWorkingYears, YearsAtCompany, YearsSinceLastPromotion, YearsWithCurrManager)
     VALUES (%s, %s, %s, %s, %s, %s, %s)
 """
-file_path = '/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETLII/data/output_data/JobDetails.csv'
+file_path = '../data/output_data/JobDetails.csv'
 soporte_bbdd.insertar_datos(query, user='root', password='AlumnaAdalab', host='127.0.0.1', database='ABC_Corporation', file_path=file_path)
 print('___________________________________________________________________________________')
 
@@ -85,7 +85,7 @@ query = """
     VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
 """
 
-file_path = '/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETLII/data/output_data/Compensation.csv'
+file_path = '../data/output_data/Compensation.csv'
 soporte_bbdd.insertar_datos(query, user='root', password='AlumnaAdalab', host='127.0.0.1', database='ABC_Corporation', file_path=file_path)
 print('___________________________________________________________________________________')
 
@@ -94,5 +94,5 @@ query = """
     INSERT INTO Satisfaction (EnvironmentSatisfaction, JobInvolvement, JobSatisfaction, PerformanceRating, RelationshipSatisfaction, WorkLifeBalance)
     VALUES (%s, %s, %s, %s, %s, %s)
 """
-file_path = '/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETLII/data/output_data/Satisfaction.csv'
+file_path = '../data/output_data/Satisfaction.csv'
 soporte_bbdd.insertar_datos(query, user='root', password='AlumnaAdalab', host='127.0.0.1', database='ABC_Corporation', file_path=file_path)
