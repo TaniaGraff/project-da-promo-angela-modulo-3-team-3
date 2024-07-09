@@ -27,12 +27,12 @@ GET TALENT | *Equipo desarrollo:* Reyes Altozano, Marta García, Tania Graff, Fr
 - `ETL`
 Carpeta que incluye los archivos .py (soporte y main) necesarios para ejecutar la automatización del proceso ETL de limpieza y transformación de datos, así como los archivos .csv de entrada y salida que se han utilizado para dicha automatización.
 
-   *Ejecución* Para realizar el proceso ETL de la primera y segunda fase, ejecutar desde la línea de comandos: python soporte.py | python main.py 
+   *- Ejecución* Para realizar el proceso ETL de la primera fase, ejecutar desde la línea de comandos: python soporte.py | python main.py 
 
 - `ETLII`
 Carpeta que incluye los archivos .py (soporte y main) necesarios para ejecutar la automatización del proceso ETL de creación de BBDD e insercción de datos, así como los archivos .csv de entrada y salida que se han utilizado para dicha automatización.
 
-   *Ejecución* Para realizar el proceso ETL de la primera y segunda fase, ejecutar desde la línea de comandos: python soporte_bbdd.py | python main_bbdd.py
+   *- Ejecución* Para realizar el proceso ETL de la segunda fase, ejecutar desde la línea de comandos: python soporte_bbdd.py | python main_bbdd.py
 
 - `Gráficos`
 Carpeta que incluye dos archivos .ipynb con las visualizaciones de las variables más relevantes para el análisis.
