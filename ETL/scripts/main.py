@@ -5,7 +5,7 @@ print('______________   FASE 1. EXPLORACIÓN INICIAL Y LIMPIEZA DE DATOS   _____
 print('______________________      APERTURA Y LIMPIEZA HR RAW       _______________________')
 
 #Llamamos a la función para abrir el csv.
-df_HR = soporte.lectura_archivo('/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETL/data/input_data/HR_RAW_DATA.csv')
+df_HR = soporte.lectura_archivo('../data/input_data/HR_RAW_DATA.csv')
 print('Las 5 primeras filas del DataFrame HR son:\n')
 print(df_HR.head())
 print('....................................................................................')
@@ -98,7 +98,7 @@ job_details = ['JobRole', 'JobLevel', 'NumCompaniesWorked', 'TotalWorkingYears',
 compensation = ['DailyRate', 'HourlyRate', 'MonthlyIncome', 'MonthlyRate', 'StockOptionLevel', 'PercentSalaryHike', 'OverTime', 'TrainingTimesLastYear', 'RemoteWork']
 satisfaction = ['EnvironmentSatisfaction', 'JobInvolvement', 'JobSatisfaction', 'RelationshipSatisfaction', 'WorkLifeBalance', 'PerformanceRating']
 
-ruta_df_limpio = '/Users/Tania_1/Desktop/ADALAB/MODULO_3/project-da-promo-angela-modulo-3-team-3/ETL/data/output_data/df_HR_limpio.csv'
+ruta_df_limpio = '../data/output_data/df_HR_limpio.csv'
 
 soporte.procesar_y_guardar_csv(ruta_df_limpio, employee, 'Employees')
 soporte.procesar_y_guardar_csv(ruta_df_limpio, job_details, 'JobDetails')
