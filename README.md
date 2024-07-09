@@ -1,23 +1,44 @@
-# Proyecto Retención de Talento
+## Optimización de Talento
+Proyecto de análisis de datos y experimentación A/B test para probar hipótesis críticas y proporcionar a ABC Corporation información valiosa sobre sus empleados que les permita tomar decisiones estratégicas informadas para la mejora de la gestión de sus recursos humanos.
 
-*Equipo desarrollo:* Reyes Altozano, Marta García, Tania Graff, Franca Tortarolo
+GET TALENT | *Equipo desarrollo:* Reyes Altozano, Marta García, Tania Graff, Franca Tortarolo
 
-*Cliente:* ABC corporation
+![imagen_portada_modulo](portada.png)
 
-*Objetivo:* reducir la rotación de empleados y mejorar la satisfacción en el trabajo la empresa ABC Corporation
+**Cliente** ABC corporation
 
-*Fases:* 
+**Objetivo** Reducir la rotación de empleados y mejorar la satisfacción laboral en la empresa.
 
-   - `Fase 1`: Comprender el conjunto de datos y sus características. 
+**Fases**
 
-- `Fase 2`: Normalización, conversión de tipos de datos y aplicación de reglas empresariales específicas.
+- `Fase 1`: Comprender el conjunto de datos y sus características. 
+
+- `Fase 2`: Normalización, transformación y limpieza del conjunto de datos.
 
 - `Fase 3`: Diseño de la estructura de la BBDD, creación de la BBDD, inserción de los datos iniciales. 
 
-- `Fase 4`: Determinar si existe una relación entre el nivel de satisfacción en el trabajo y la rotación de empleados. 
+- `Fase 4`: Experimentación A/B test para probar hipótesis críticas y determinar que factores tienen una mayor incidencia en la rotación de empleados. 
 
-- `Fase 5`: Automatizar la inserción de datos en la BBDD relacional y garantizar que la información se actualice.
+- `Fase 5`: Proporcionar un informe detallado con las conclusiones de nuestro análisis y las recomendaciones a seguir, utilizando visualizaciones en Python junto con análisis descriptivos y estadísticos.
 
-- `Fase 6`: Proporcionar un informe detallado del contexto general de la empresa utilizando visualizaciones en Python junto con análisis descriptivos, como ser tendencias, áreas de mejora y fortalezas dentro de la empresa. 
+- `Fase 6`: Automatización de los procesos, desde la limpieza y transformación de los datos, hasta la insercción de datos en la BBDD de empleados de ABC Corporation.
 
+### Estructura archivos
+**ETL**
+Carpeta que incluye los archivos .py (soporte y main) necesarios para ejecutar la automatización del proceso ETL de limpieza y transformación de datos, así como los archivos .csv de entrada y salida que se han utilizado para dicha automatización.
 
+   *Ejecución* Para realizar el proceso ETL de la primera y segunda fase, ejecutar desde la línea de comandos: python soporte.py | python main.py 
+
+**ETLII**
+Carpeta que incluye los archivos .py (soporte y main) necesarios para ejecutar la automatización del proceso ETL de creación de BBDD e insercción de datos, así como los archivos .csv de entrada y salida que se han utilizado para dicha automatización.
+
+   *Ejecución* Para realizar el proceso ETL de la primera y segunda fase, ejecutar desde la línea de comandos: python soporte_bbdd.py | python main_bbdd.py
+
+**gráficos**
+Carpeta que incluye dos archivos .ipynb con las visualizaciones de las variables más relevantes para el análisis.
+
+**AB_Testing**
+Carpeta que incluye 2 archivos .ipynb con las seis pruebas de experimentación A/B test que se han realizado para probar hipótesis críticas y determinar que factores tienen una mayor incidencia en la rotación de empleados.
+
+**borradores**
+Carpeta que incluye los archivos utilizados durante la fase inicial de trabajo, además de los working agreements del equipo.
